@@ -1,0 +1,154 @@
+  /* palau flag */
+        /* blue rect */
+        .palau{
+            width: 500px;
+            height: 300px;
+            background-color:#0085CA;
+            position: relative;
+        }
+        .palau > div {
+            width: 150px;
+            height: 150px;
+            background-color: #FFD100;
+            border-radius: 50%;
+            position: absolute;
+            top: 90px;
+            left: 100px;
+        }
+
+      
+        /* japan flag */
+        .japan{
+            width: 500px;
+            height: 300px;
+            background-color: #ffffff;
+            position: relative;
+            border: 2px solid black;
+        }
+        .japan >  div {
+            width: 150px ;
+            height: 150px;
+            background-color:#bc002d;
+            border-radius: 50%;
+            position: absolute;
+            top: 70px;
+            left: 170px;
+        }
+        /* ukraine */
+        .ukraine {
+            width: 500px;
+            height: 300px;
+            background-color:#005bbb;
+            position: relative;
+        }
+        .ukraine div {
+            /* decendent selector */
+            width: 500px;
+            height: 150px;
+            background-color: #ffD500;
+            position: absolute;
+            top: 150px;
+        }
+        /* latvia */
+        .latvia {
+            width: 500px;
+            height: 300px;
+            background-color:#9e3039;
+            position: relative;
+        }
+        .latvia div {
+            width: 500px;
+            height: 50px;
+            background-color: #ffffff;
+            position: absolute;
+            top: 120px;
+        }
+        /* nigeria */
+        .nigeria {
+            width: 500px;
+            height: 300px;
+            background-color: #008751;
+            position: relative;
+        }
+        .nigeria div {
+            width: 200px;
+            height: 300px;
+            background-color: #ffffff;
+            position: absolute;
+            left: 150px;
+        }
+        .peru {
+            width: 500px;
+            height: 300px;
+            background-color:
+            #d91023;
+            position: relative;
+        }
+        .peru div {
+            width: 200px;
+            height: 300px;
+            background-color: #ffffff;
+            position: absolute;
+            left: 150px;
+        }
+        /* poland */
+        .poland {
+            width: 500px;
+            height: 300px;
+            background-color:#ffffff;
+            position: relative;
+            border: 2px solid black;
+        }
+        .poland div {
+            /* decendent selector */
+            width: 500px;
+            height: 150px;
+            background-color: #dc143c;
+            position: absolute;
+            top: 150px;
+        }
+        .monaco{
+            width: 500px;
+            height: 300px;
+            background-color: #ce1126;
+            position: relative;
+            border: 2px solid black;
+        }
+        .monaco div {
+            /* decendent selector */
+            width: 500px;
+            height: 150px;
+            background-color: #ffffff;
+            position: absolute;
+            top: 150px;
+        }
+        .austria {
+            width: 500px;
+            height: 300px;
+            background-color:#ed2939;
+            position: relative;
+        }
+        .austria div {
+            width: 500px;
+            height: 100px;
+            background-color: #ffffff;
+            position: absolute;
+            top: 100px;
+        }
+        /* bangladesh */
+        .bangladesh {
+            width: 500px;
+            height: 300px;
+            background-color:#006a4e;
+            position: relative;
+        }
+        .bangladesh > div {
+            width: 150px;
+            height: 150px;
+            background-color: #f42a41;
+            border-radius: 50%;
+            position: absolute;
+            top: 90px;
+            left: 100px;
+        }
+ 
